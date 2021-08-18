@@ -1,0 +1,27 @@
+**{
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    /* margin-top: 2rem; */
+    background-color: #005c85;
+    height: 100vmin;
+
+}
+.line{
+    line-height: 0.8;
+}
+.horizontal{
+    background-color: #005c85; 
+}
+.different{
+    color: #005c85;
+}
+.hngWrap a {
+    text-decoration: none;
+}
+.hngWrap img {
+    width: 2rem;
+    border-radius: 50%;
+}
